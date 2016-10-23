@@ -34,6 +34,18 @@ en:
   title: "Foods And Drinks"
   home: "Home"
   currency: "₫"
+  user: "User"
+  category: "Category"
+  product: "Product"
+  home: "Home"
+  product_list: "Product list"
+  image: "Image"
+  price: "Price"
+  quatity: "Quantity"
+  edit: "Edit"
+  delete: "Delete"
+  add_new: "Add new"
+  create_product: "Create product"
   layouts:
     header:
       categories: "Categories"

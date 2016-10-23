@@ -22,3 +22,7 @@ $(function() {
   namespace: "callbacks"
   });
 });
+$(document).ready(function() {
+  $("#data-list").DataTable( {
+  });
+} );

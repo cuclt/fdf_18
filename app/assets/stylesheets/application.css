@@ -11,6 +11,8 @@
  * It is generally better to create a new file per style scope.
  *
  *= require_tree .
+ *= require dataTables/extras/dataTables.responsive
+ *= require dataTables/jquery.dataTables
  *= require_self
  *= require owl.carousel
  *= require owl.theme

@@ -2464,4 +2464,35 @@ a:hover {
   line-height: 1;
   padding-left: 4px;
 }
-
+.img-circle {
+  width: 35px;
+  height: 35px;
+}
+#logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding-top: 12px;
+  font-weight: bold;
+  &:hover {
+    color: white;
+    text-decoration: none;
+  }
+}
+.admin li {
+  height: 64px;
+}
+.admin li:hover{
+  background-color: #090909;
+  color: #fff;
+}
+.portlet-body img {
+  max-width: 150px;
+  max-height: 150px;
+}
+#data-list th, td {
+  text-align: center;
+}
