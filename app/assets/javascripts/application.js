@@ -16,3 +16,6 @@
 //= require turbolinks
 //= require_tree .
 //= require owl.carousel
+//= require dataTables/jquery.dataTables
+//= require dataTables/extras/dataTables.responsive
+//= require dataTables/jquery.dataTables

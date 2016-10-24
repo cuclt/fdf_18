@@ -41,6 +41,14 @@ en:
   error: "Error"
   price: "Price"
   reply: "Reply"
+  user_list: "User list"
+  user: "User"
+  delete: "Delete"
+  category: "Category"
+  product: "Product"
+  home: "Home"
+  order: "Order"
+  suggest: "Suggest"
   layouts:
     header:
       categories: "Categories"
@@ -80,3 +88,10 @@ en:
     list_product:
       increase: "increase"
       decrease: "decrease"
+  success:
+    users:
+      user_del: "User delete successfully!"
+  danger:
+    user_is_not_admin: "User is not admin"
+    users:
+      user_del_fail: "Delete user fail!"
